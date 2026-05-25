@@ -9,6 +9,7 @@ public class SingleDimensionArray{
         }
     }
 
+
     public void insert(int location, int valueToBeInserted){
         try{
             if(arr[location] == Integer.MIN_VALUE){
