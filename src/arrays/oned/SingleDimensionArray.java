@@ -1,3 +1,4 @@
+package arrays.oned;
 
 public class SingleDimensionArray{
     int arr[] = null;
@@ -56,4 +57,6 @@ public class SingleDimensionArray{
         }
     }
 }
+
+
 
