@@ -10,7 +10,10 @@ public class main {
 
 
 //        var firstElement = sda.arr[120];
-        System.out.println("Array traversal");
-        sda.traverseArray();
+//        System.out.println("Array traversal");
+//        sda.traverseArray();
+        sda.searchInArray(120);
+        sda.searchInArray(10);
+
     }
 }
